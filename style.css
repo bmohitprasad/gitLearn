@@ -43,12 +43,18 @@ body, html {
 
 .f-o {
     color: white;
+    font-size: xxx-large;
     text-shadow: h-shadow v-shadow;
+}
+
+.orderNow-text {
+    font-size: large;
 }
 
 .orderNow {
     display: flex;
     width: fit-content;
+    font-size: large;
     background-color: white;
     color: green;
     border: 2px;
