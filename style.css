@@ -216,6 +216,11 @@ body, html {
     height: auto;
 }
 
+.part-5-text {
+    font-size: large;
+    color: white;
+}
+
 .part-6 {
     margin: 20px;
     width: 100%;
